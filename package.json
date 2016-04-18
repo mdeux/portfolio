@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Gulp dependencies Portfolio Drupal theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeux/portfolio.git"
+  },
+  "author": "edelort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeux/portfolio/issues"
+  },
+  "homepage": "https://github.com/mdeux/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+  }
+}
