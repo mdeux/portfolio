@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Github for portfolio theme
